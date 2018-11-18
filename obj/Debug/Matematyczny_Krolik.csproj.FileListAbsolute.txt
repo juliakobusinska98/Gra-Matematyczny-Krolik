@@ -8,3 +8,13 @@ c:\users\julia\source\repos\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Ma
 c:\users\julia\source\repos\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.csproj.CoreCompileInputs.cache
 c:\users\julia\source\repos\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.exe
 c:\users\julia\source\repos\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.pdb
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\bin\Debug\Matematyczny_Krolik.exe.config
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\bin\Debug\Matematyczny_Krolik.exe
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\bin\Debug\Matematyczny_Krolik.pdb
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.Form1.resources
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.Properties.Resources.resources
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.csproj.GenerateResource.cache
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.exe
+C:\Users\Julia\Desktop\Matematyczny_Krolik\Matematyczny_Krolik\obj\Debug\Matematyczny_Krolik.pdb
